@@ -20,5 +20,5 @@ Conclusion:
  culminating in a user-friendly Streamlit application that allows users to upload leaf images and receive instant predictions on leaf health, along with recommendations for disease management. 
  This initiative demonstrates the significant potential of machine learning in enhancing agricultural practices and supporting plant health monitoring.
 
-
-I can't upload the dataset because it is a very large file.
+DATASET: https://www.kaggle.com/datasets/emmarex/plantdisease
+VIDEO DEMO: https://drive.google.com/drive/folders/1xNTkwNfqU4iNT_ARf_maM1f-vY3FH8UC?usp=sharing
